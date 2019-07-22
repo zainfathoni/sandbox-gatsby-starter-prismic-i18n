@@ -44,7 +44,7 @@
     "gatsby-plugin-typography": "^2.3.2",
     "gatsby-source-prismic": "^2.2.0",
     "gatsby-transformer-sharp": "^2.2.3",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.15",
     "prismic-reactjs": "^0.3.2",
     "prismjs": "^1.16.0",
     "prop-types": "^15.7.2",
