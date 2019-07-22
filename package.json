@@ -46,7 +46,7 @@
     "gatsby-transformer-sharp": "^2.2.3",
     "lodash": "^4.17.15",
     "prismic-reactjs": "^0.3.2",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.17.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
