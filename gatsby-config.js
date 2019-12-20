@@ -29,7 +29,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-prismic',
       options: {
-        repositoryName: 'gatsby-starter-prismic',
+        repositoryName: 'rumahberbagi',
         accessToken: `${process.env.API_KEY}`,
         // Get the correct URLs in blog posts
         linkResolver: () => prismicLinkResolver,
