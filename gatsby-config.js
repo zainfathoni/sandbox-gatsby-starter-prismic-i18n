@@ -35,6 +35,8 @@ module.exports = {
         linkResolver: () => prismicLinkResolver,
         // PrismJS highlighting for labels and slices
         htmlSerializer: () => prismicHtmlSerializer,
+        // Remove this config option if you only have one language in your Prismic repository
+        lang: 'id',
       },
     },
     'gatsby-plugin-lodash',
